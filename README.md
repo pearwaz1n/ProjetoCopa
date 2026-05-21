@@ -1,5 +1,10 @@
 # ProjetoCopa
 
+Projeto Final com tema da copa do mundo 2026, utilizando angular para frontend, APis de Jogadores, calendario. E Java com springboot e h2-console, para o banco de dados e backend do projeto.
+
+
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.11.
 
 ## Development server
